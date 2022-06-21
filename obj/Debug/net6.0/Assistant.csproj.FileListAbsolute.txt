@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\Assistant.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\Assistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\Assistant.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\Assistant.AssemblyInfo.cs
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\Assistant.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharp\Assistant\bin\Debug\net6.0\Assistant.exe
+C:\Users\User\Documents\CSharp\Assistant\bin\Debug\net6.0\Assistant.deps.json
+C:\Users\User\Documents\CSharp\Assistant\bin\Debug\net6.0\Assistant.runtimeconfig.json
+C:\Users\User\Documents\CSharp\Assistant\bin\Debug\net6.0\Assistant.dll
+C:\Users\User\Documents\CSharp\Assistant\bin\Debug\net6.0\Assistant.pdb
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\Assistant.dll
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\refint\Assistant.dll
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\Assistant.pdb
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\Assistant.genruntimeconfig.cache
+C:\Users\User\Documents\CSharp\Assistant\obj\Debug\net6.0\ref\Assistant.dll
